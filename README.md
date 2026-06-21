@@ -41,16 +41,16 @@ I like working across the stack — from
 <div align="center">
 
 ### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python" />
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,java" />
 
 ### ⚛️ Frontend  
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 
 ### 🔧 Backend & Database  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
 ### 🧰 Tools & Deployment  
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
 
 </div>
 
